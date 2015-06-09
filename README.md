@@ -1,3 +1,5 @@
+#Redis with Ruby / Rails
+
 Some Basic Commands
 ---
 
